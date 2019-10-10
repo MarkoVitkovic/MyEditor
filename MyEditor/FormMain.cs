@@ -16,5 +16,10 @@ namespace MyEditor
 		{
 			InitializeComponent();
 		}
+
+		private void helpToolStripMenuItem_Click(object sender, EventArgs e)
+		{
+
+		}
 	}
 }
