@@ -60,7 +60,7 @@ To-do list:
 Project is: _finished_
 
 ## Inspiration
-
+First csh GUI program from me.
 
 ## Contact
 Created by [Marko Vitkovic](https://github.com/MarkoVitkovic) - feel free to contact me!
