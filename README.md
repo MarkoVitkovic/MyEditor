@@ -21,27 +21,19 @@ This GUI is made in c#. Just a quick little project. Text Editor. Feel free to c
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 ## Setup
-Open terminal(cmd) and navigate:</br>
-`npx create-react-app my-app`</br>
-`cd my-app`</br>
-`npm start`</br>
-Open source in Visual Studio Code.
+1.Open your Visual Studio Environment and Click File->New Project</br>
+![](http://csharp.net-informations.com/gui/img/new-project.png)</br>
+2.Then you will get a New Project Dialogue Box asking in which language you want to create a new project.</br>
+![](http://csharp.net-informations.com/gui/img/visual-studio.png)</br>
+3.Select Visual C# from the list, then you will get the following screen.</br>
+![](http://csharp.net-informations.com/gui/img/form-control.png)</br>
+4.Now you can add controls in your Form Control.</br>
 
-## Available Scripts
-
-In the project directory, you can run:
-
-npm start</br>
-npm test</br>
-npm run build</br>
-npm run eject</br>
-npm run build
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To learn C#, check out the [C#](https://docs.microsoft.com/en-us/dotnet/csharp/).
 
 ## Code Examples
 Code:</br>
