@@ -33,47 +33,34 @@ This GUI is made in c#. Just a quick little project. Text Editor. Feel free to c
 ## Learn More
 
 
-To learn C#, check out the [C#](https://docs.microsoft.com/en-us/dotnet/csharp/).
+To learn C#, check out the [C# docs](https://docs.microsoft.com/en-us/dotnet/csharp/).
 
 ## Code Examples
 Code:</br>
- `<React.Fragment>`</br>
- `       <div className="py-5">`</br>
- `         <div className="container">`</br>
-  `        <Title name="our" title="products" />`</br>
-   `         <div className="row">`</br>
-    `        <ProductConsumer>`</br>
-     `         {(value) => {`</br>
-      `          return value.products.map(product => {`</br>
-       `           return <Product key = {product.id} product = {product} />`</br>
-        `        })`</br>
-         `     }}`</br>
-       `     </ProductConsumer>`</br>
-       `   </div>`</br>
-       `   </div>`</br>
-       ` </div>`</br>
-      `</React.Fragment>`</br>
+`if(saveFileDialog1.ShowDialog() == DialogResult.OK)`</br>
+			`{`</br>
+				`using (StreamWriter writer = new StreamWriter(saveFileDialog1.FileName))`</br>
+				`{`</br>
+					`writer.Write(textBox1.Text);`</br>
+				`}`</br>
+			`}`</br>
 
 
 ## Features
 List of features ready and TODOs for future development
-* List of products
-* Product details
-* Responsive
-* Functionally cart
-* PayPal pay
+* Create new file
+* Open existing file
+* Edit new or existing file
 
 To-do list:
-* Enable wish list
-* Add input form for new products
-* Add login form
-* Add more products
+* Tool box
+* can open more formats
 
 ## Status
-Project is: _not finished_
+Project is: _finished_
 
 ## Inspiration
-Credits: [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+
 
 ## Contact
 Created by [Marko Vitkovic](https://github.com/MarkoVitkovic) - feel free to contact me!
